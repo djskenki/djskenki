@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @djskenki
+- 👋 Hi, I’m @tunswale
 - 👀 I’m interested in Stata, social research, program evaluation
 - 🌱 I’m currently learning Applied Digital Sociology
 - 💞️ I’m looking to collaborate on R, Stata, Qualtrics, SPSS
